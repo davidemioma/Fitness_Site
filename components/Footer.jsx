@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="w-full mt-10 bg-[#FFF3F4] px-10 py-5 flex flex-col items-center">
       <img
         className="w-[200px] h-10 mb-4"
-        src="/assets/images/logo-1.png"
+        src="/assets/images/Logo-1.png"
         alt=""
       />
 
