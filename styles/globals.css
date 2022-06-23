@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply cursor-pointer text-white rounded-3xl ml-5 capitalize px-3 py-1;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-[#FFFAFB];
+  }
+}
